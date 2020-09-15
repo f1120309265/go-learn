@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ba349ca-f364-4c37-86f3-b1e57f4e47d8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1hN9mKITGhMfGYTPeAuyhd0Jjbd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build github.com/f1120309265/study/mult_language">
+    <configuration name="go build github.com/f1120309265/study/mult_language" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/mult_language/main.go" />
+      <package value="github.com/f1120309265/study/mult_language" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/f1120309265/study/param_demo" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/param_demo/main.go" />
+      <package value="github.com/f1120309265/study/param_demo" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/f1120309265/study/router_demo" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/router_demo/main.go" />
+      <package value="github.com/f1120309265/study/router_demo" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/f1120309265/study/start" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/start/main.go" />
+      <package value="github.com/f1120309265/study/start" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/f1120309265/study/valid" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/valid/main.go" />
+      <package value="github.com/f1120309265/study/valid" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/f1120309265/study/mult_language" />
+        <item itemvalue="Go Build.go build github.com/f1120309265/study/start" />
+        <item itemvalue="Go Build.go build github.com/f1120309265/study/valid" />
+        <item itemvalue="Go Build.go build github.com/f1120309265/study/router_demo" />
+        <item itemvalue="Go Build.go build github.com/f1120309265/study/param_demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="49" key="#GOPATH" timestamp="1599843897420">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="440" y="49" key="#GOPATH/0.23.1280.722@0.23.1280.722" timestamp="1599843897420" />
+    <state x="440" y="224" key="#Go_Modules" timestamp="1599840893083">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="440" y="224" key="#Go_Modules/0.23.1280.722@0.23.1280.722" timestamp="1599840893083" />
+    <state x="348" y="193" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599919027343">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="348" y="193" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.722@0.23.1280.722" timestamp="1599919027343" />
+    <state width="1238" height="264" key="GridCell.Tab.0.bottom" timestamp="1600157174567">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state width="1238" height="264" key="GridCell.Tab.0.bottom/0.23.1280.722@0.23.1280.722" timestamp="1600157174567" />
+    <state width="1238" height="264" key="GridCell.Tab.0.center" timestamp="1600157174566">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state width="1238" height="264" key="GridCell.Tab.0.center/0.23.1280.722@0.23.1280.722" timestamp="1600157174566" />
+    <state width="1238" height="264" key="GridCell.Tab.0.left" timestamp="1600157174565">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state width="1238" height="264" key="GridCell.Tab.0.left/0.23.1280.722@0.23.1280.722" timestamp="1600157174565" />
+    <state width="1238" height="264" key="GridCell.Tab.0.right" timestamp="1600157174566">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state width="1238" height="264" key="GridCell.Tab.0.right/0.23.1280.722@0.23.1280.722" timestamp="1600157174566" />
+    <state x="141" y="23" key="SettingsEditor" timestamp="1600142937850">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="141" y="23" key="SettingsEditor/0.23.1280.722@0.23.1280.722" timestamp="1600142937850" />
+    <state x="341" y="23" width="598" height="722" key="find.popup" timestamp="1600003040391">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="341" y="23" width="598" height="722" key="find.popup/0.23.1280.722@0.23.1280.722" timestamp="1600003040391" />
+    <state x="305" y="69" width="670" height="676" key="search.everywhere.popup" timestamp="1600099168794">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="305" y="69" width="670" height="676" key="search.everywhere.popup/0.23.1280.722@0.23.1280.722" timestamp="1600099168794" />
+  </component>
+</project>
